@@ -11,6 +11,6 @@ import (
 // )
 
 func main() {
-	fmt.Print("semoga jalan yaa")
+	fmt.Print("hahahahhaahhah lucuuuuuuuuuuuuuuu:)")
 	num := 1
 }
