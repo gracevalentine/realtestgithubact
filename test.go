@@ -5,13 +5,13 @@ import (
 )
 
 var (
-	var1 float32 = 20.5 // yang ini private, ditandai dgn huruf bukan kapital pd awal var
-	Var2 float32 = 20.5
+	var1 float32 = 99999999
+	Var2 float32 = 30000 
 	num  int
 )
 
 func main() {
-	fmt.Print("akhirnya anjing jalan")
+	fmt.Print("semoga jalan yaa")
 	for i := 1; i <= num; i++ {
 		fmt.Print("*")
 	}
