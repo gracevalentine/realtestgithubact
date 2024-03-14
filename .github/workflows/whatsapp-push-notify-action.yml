@@ -7,9 +7,9 @@ jobs:
       - name: whatsapp-notify
         id: whatsapp-notify
         env:
-          account_sid: ${{ secrets.account_sid }}
-          auth_token: ${{ secrets.auth_token }}
-          to_whatsapp_no: ${{ secrets.to_whatsapp_no }}
+          account_sid: ACeb1c5da77e40e019172a5f5242ea98d6
+          auth_token: dee19bf9093362f0c62690a7860e6fd5
+          to_whatsapp_no: +6285273864767
           message: new commit
 
 
