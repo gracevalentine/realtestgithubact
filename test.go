@@ -12,7 +12,5 @@ var (
 
 func main() {
 	fmt.Print("semoga jalan yaa")
-	for i := 1; i <= num; i++ {
-		fmt.Print("*")
-	}
+	num 1
 }
