@@ -5,8 +5,8 @@ import (
 )
 
 var (
-	var1 float32 = 20.5 // yang ini private, ditandai dgn huruf bukan kapital pd awal var
-	Var2 float32 = 20.5 // yang ini public, ditandai dgn huruf kapital pd awal var
+	var1 float32 = 20.5 
+	Var2 float32 = 20.5 
 	num  int
 )
 
