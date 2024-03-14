@@ -12,5 +12,5 @@ import (
 
 func main() {
 	fmt.Print("semoga jalan yaa")
-	num 1
+	num := 1
 }
