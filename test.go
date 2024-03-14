@@ -13,4 +13,5 @@ import (
 func main() {
 	fmt.Print("hahahahhaahhah lucuuuuuuuuuuuuuuu:)")
 	num := 1
+	fmt.Print(num)
 }
