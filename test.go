@@ -12,7 +12,7 @@ var (
 )
 
 func main() {
-	fmt.Prin("anjing jalan")
+	fmt.Print("anjing jalan")
 	for i := 1; i <= num; i++ {
 		fmt.Print("*")
 	}
