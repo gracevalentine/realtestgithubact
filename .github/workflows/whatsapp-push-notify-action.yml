@@ -10,7 +10,7 @@ jobs:
           account_sid: ACeb1c5da77e40e019172a5f5242ea98d6
           auth_token: dee19bf9093362f0c62690a7860e6fd5
           to_whatsapp_no: +6285273864767
-          message: new commit
+          message: APA AJA LAH
 
 
         uses: khaled-ibtikar/whatsapp-push-notify-action@master
